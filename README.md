@@ -7,4 +7,4 @@
 
 1. tableau project
 
-[tableau project imaage](https://github.com/shabi340/Taxi-Analysis/blob/main/power_bi_dashboard.png)
+[tableau project image](https://github.com/shabi340/Taxi-Analysis/blob/main/power_bi_dashboard.png)
